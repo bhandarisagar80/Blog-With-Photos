@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: 	00FFFF;
+}
+
+img {
+    width: 500px;
+}
+div{
+    margin-top: 15px;
+    
+}
+.selection-style{
+margin-right: 20px;
+margin-left: 20px;
+background-color: white;
+}
